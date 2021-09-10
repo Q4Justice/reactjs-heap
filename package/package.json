@@ -1,8 +1,8 @@
 {
   "name": "q4j-reactjs-heap",
-  "version": "1.0.4",
-  "description": "React Heap Analytics Module",
-  "author": "pedro-lb,shmeeny",
+  "version": "1.0.5",
+  "description": "Q4Justice React Heap Analytics Module, a fork of pedro-lb/reactjs-heap",
+  "author": "shmeeny",
   "license": "MIT",
   "repository": "Q4Justice/reactjs-heap",
   "main": "dist/index.js",
